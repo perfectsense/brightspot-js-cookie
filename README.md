@@ -1,4 +1,4 @@
 # brightspot-js-cookie
 
-See cookie.js for the utilities documentation.
+See bsp-cookie.js for the utilities documentation.
 

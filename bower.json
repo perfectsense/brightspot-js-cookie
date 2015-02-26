@@ -12,8 +12,8 @@
     "jquery"
   ],
   "license": "MIT",
-  "main": "cookie.js",
-  "name": "cookie",
+  "main": "bsp-cookie.js",
+  "name": "bsp-cookie",
   "version": "1.0.0",
   "ignore": []
 }
